@@ -8,9 +8,9 @@ python dnd.py numDice numSides
 python3 dnd.py numDice numSides
 
 ### Sample Output
-python3 dnd.py 4 12
-You roll 9
-You roll 3
-You roll 8
-You roll 8
+python3 dnd.py 4 12  
+You roll 9  
+You roll 3  
+You roll 8  
+You roll 8  
 You rolled a total of 28
