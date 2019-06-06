@@ -71,6 +71,7 @@ class DND:
     # TODO: Allow multiple pairs of arguments to roll multiple times
     #       Example: dnd.py 1 6 2 12
     # TODO: Create a help command to tell user how to use program
+    # TODO: Create global rules for number of dice, number of sides
     ### 
 
     # Grab arguments
