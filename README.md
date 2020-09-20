@@ -14,6 +14,7 @@ python3 dnd.py numDice numSides
 python3 dnd.py 4 12  
 4d12: 1:2 2:5 3:2 4:7 Total of 16/48
 
+python3 dnd.py 5 6
 5d6: 1:6 2:4 3:5 4:5 5:3 Total 23/30
 
 # History
