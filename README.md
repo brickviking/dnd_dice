@@ -13,13 +13,18 @@ python3 dnd.py numDice numSides
 ### Sample Output
 python3 dnd.py 4 12  
 
-4d12: 1:2 2:5 3:2 4:7 Total of 16/48
+4d12:   1:2 2:5 3:2 4:7 Total of 16/48
 
 python3 dnd.py 5 6
 
-5d6: 1:6 2:4 3:5 4:5 5:3 Total 23/30
+5d6:   1:6 2:4 3:5 4:5 5:3 Total 23/30
 
 # History
 Originally seen at https://github.com/zwilliamsdev/dnd_dice/blob/master/dnd.py
 
 Modifications (myself): https://github.com/brickviking/dnd_dice/dnd.py
+
+# Other renditions
+https://github.com/Fiona1729/py-rolldice - in my opinion, over-engineered, but it does what it says on the tin. I only hope I can program this well eventually. It does nice things like 3d6, 5d4K2, and many many other inputs.
+
+
